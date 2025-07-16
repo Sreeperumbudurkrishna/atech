@@ -1,0 +1,25 @@
+.nav-link {
+color: #0c0c0c !important;
+font-size: 20px !important;
+font-weight: 400 !important;
+font-family: "Winky Rough", sans-serif;
+padding: 0 25px !important;
+transition:40ms
+}
+.nav-link:hover{
+    color: red !important;
+    letter-spacing: 10px !important;
+    /* filter: drop-shadow(2px 2px 4px #000) !important; */
+    /* background-color: #000 !important;
+    color: #fff !important;
+    border-radius: 20px !important; 
+    padding: 10px 25px !important; */
+
+}
+.navbar{
+    /* background-color: #000 !important; */
+    margin: 2% 4% !important;
+    border-radius: 50px !important;
+    padding: 10px 20px !important;
+
+}
