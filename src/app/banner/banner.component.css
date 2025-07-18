@@ -1,0 +1,18 @@
+.arrow1{
+    background-color: #fff !important;
+    padding:20px;
+    border-radius: 50%;
+    color: #000;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+
+}
+.arrow2{
+    background-color: #fff !important;
+    padding:20px;
+    border-radius: 50%;
+    color: #000;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
